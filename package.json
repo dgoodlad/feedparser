@@ -1,0 +1,25 @@
+{
+  "author": "David Goodlad <david@goodlad.net> (http://d.goodlad.net/)",
+  "name": "feedparser",
+  "description": "RSS/Atom Feed Parser",
+  "version": "0.0.1",
+  "homepage": "http://github.com/dgoodlad/feedparser",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dgoodlad/feedparser.git"
+  },
+  "main": "feedparser.js",
+  "scripts": {
+    "test": "vows"
+  },
+  "engines": {
+    "node": "~0.4.9"
+  },
+  "dependencies": {
+		"libxml-to-js": "~0.3.4",
+    "coffee-script": "~1.1.2"
+  },
+  "devDependencies": {
+    "vows": "~0.5.1"
+  }
+}

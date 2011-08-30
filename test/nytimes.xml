@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="/css/rss20.xsl" type="text/xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0" xmlns:pheedo="http://www.pheedo.com/namespace/pheedo">
+	<channel>
+		<title>NYT &gt; Home Page</title>
+		<link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+		<description/>
+		<language>en-us</language>
+		<copyright>Copyright 2011  The New York Times Company</copyright>
+		<lastBuildDate>Mon, 29 Aug 2011 10:54:50 GMT </lastBuildDate>
+		<image>
+			<title>NYT &gt; Home Page</title>
+			<url>http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png</url>
+			<link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+		</image>
+		<atom:link rel="hub" href="http://www.pheedo.com/api/hub/"/>
+		<atom:link rel="self" href="http://feeds.nytimes.com/nyt/rss/HomePage" type="application/rss+xml"/>
+		<item>
+			<title>Damage From Irene Largely Spares New York</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=fb41c23a94bf9691115c89cba416b91d</link>
+			<pheedo:origLink>http://www.nytimes.com/2011/08/29/nyregion/wind-and-rain-from-hurricane-irene-lash-new-york.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2011/08/29/nyregion/wind-and-rain-from-hurricane-irene-lash-new-york.html</guid>
+			<atom:link rel="standout" href="http://www.nytimes.com/2011/08/29/nyregion/wind-and-rain-from-hurricane-irene-lash-new-york.html?partner=rss&amp;emc=rss"/>
+			<media:content url="http://graphics8.nytimes.com/images/2011/08/29/nyregion/28nystorm2/28nystorm2-thumbStandard.jpg" medium="image" height="75" width="75"/>
+			<media:description>Jessica Libert and her niece Madilynn Rice, 2, survey the flood damage on Croft Place in Staten Island.</media:description>
+			<media:credit>Michael Kirby Smith for The New York Times</media:credit>
+			<description>The hurricane killed at least 16 people in six states, but New York City did not meet wide destruction, even if the suburbs fared worse.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=fb41c23a94bf9691115c89cba416b91d&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=fb41c23a94bf9691115c89cba416b91d&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By SAM DOLNICK</dc:creator>
+			<pubDate>Mon, 29 Aug 2011 10:36:03 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Irene (2011)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+		</item>
+		<item>
+			<title>New York Expects Lengthy Recovery of Transit System</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=720abe60ec9b61ea1dd803417eb8b866</link>
+			<pheedo:origLink>http://www.nytimes.com/2011/08/29/nyregion/new-york-expects-lengthy-recovery-of-transit-system.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2011/08/29/nyregion/new-york-expects-lengthy-recovery-of-transit-system.html</guid>
+			<atom:link rel="standout" href="http://www.nytimes.com/2011/08/29/nyregion/new-york-expects-lengthy-recovery-of-transit-system.html?partner=rss&amp;emc=rss"/>
+			<media:content url="http://graphics8.nytimes.com/images/2011/08/29/nyregion/29transit2/29transit2-thumbStandard.jpg" medium="image" height="75" width="75"/>
+			<media:description>A subway entrance at Grand Central Station remained closed.</media:description>
+			<media:credit>John G. Mabanglo/European Pressphoto Agency</media:credit>
+			<description>Parts of the underground system will remain closed due to flooding, but all of the subway&#x2019;s 22 lines are running.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=720abe60ec9b61ea1dd803417eb8b866&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=720abe60ec9b61ea1dd803417eb8b866&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By MICHAEL M. GRYNBAUM and CHRISTINE HAUGHNEY</dc:creator>
+			<pubDate>Mon, 29 Aug 2011 10:52:37 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Subways</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hurricane Irene (2011)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Bridges and Tunnels</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Railroads</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Taxicabs and Taxicab Drivers</category>
+		</item>
+		<item>
+			<title>With Shocking Speed, Floods Turn Deadly</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=3206049836d6dcdadc70ae4b77b4027a</link>
+			<pheedo:origLink>http://www.nytimes.com/2011/08/29/nyregion/hurricane-irene-with-shocking-speed-floods-turn-deadly.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2011/08/29/nyregion/hurricane-irene-with-shocking-speed-floods-turn-deadly.html</guid>
+			<atom:link rel="standout" href="http://www.nytimes.com/2011/08/29/nyregion/hurricane-irene-with-shocking-speed-floods-turn-deadly.html?partner=rss&amp;emc=rss"/>
+			<media:content url="http://graphics8.nytimes.com/images/2011/08/29/nyregion/29flooding1_span/29flooding1_span-thumbStandard.jpg" medium="image" height="75" width="75"/>
+			<media:description>Engineers conducting a safety inspection were slammed by waves in Asbury Park, N.J.</media:description>
+			<media:credit>Chip East/Reuters</media:credit>
+			<description>As the winds died down and the storm passed through the Northeast, an extraordinary onslaught of flooding is still playing out as some rivers continue to rise in an already waterlogged region.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=3206049836d6dcdadc70ae4b77b4027a&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=3206049836d6dcdadc70ae4b77b4027a&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By PETER APPLEBOME</dc:creator>
+			<pubDate>Mon, 29 Aug 2011 07:50:06 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hurricane Irene (2011)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vermont</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hoboken (NJ)</category>
+		</item>
+		<item>
+			<title>Hurricane Coverage Is Ratings Driver for Weather Channel</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=35515b03a1325608661b3b85260b461e</link>
+			<pheedo:origLink>http://www.nytimes.com/2011/08/29/business/media/hurricane-coverage-is-ratings-driver-for-weather-channel.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2011/08/29/business/media/hurricane-coverage-is-ratings-driver-for-weather-channel.html</guid>
+			<atom:link rel="standout" href="http://www.nytimes.com/2011/08/29/business/media/hurricane-coverage-is-ratings-driver-for-weather-channel.html?partner=rss&amp;emc=rss"/>
+			<media:content url="http://graphics8.nytimes.com/images/2011/08/29/business/sub-CHANNEL/sub-CHANNEL-thumbStandard.jpg" medium="image" height="75" width="75"/>
+			<media:description>Mike Seidel during a live broadcast for the Weather Channel&#x2019;s coverage of Hurricane Irene on Saturday in Nags Head, N.C.</media:description>
+			<media:credit>Chang W. Lee/The New York Times</media:credit>
+			<description>Delivering on its promise to take people into the path of hurricanes makes the Weather Channel a must for viewers, who tune in to see storm coverage and wind-battered reporters.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=35515b03a1325608661b3b85260b461e&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=35515b03a1325608661b3b85260b461e&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By BRIAN STELTER</dc:creator>
+			<pubDate>Mon, 29 Aug 2011 07:33:29 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Irene (2011)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Weather Channel</category>
+		</item>
+		<item>
+			<title>School Gym Shelters Evacuees From Irene</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=b466c9a895437dae068d2ac36aa42933</link>
+			<pheedo:origLink>http://www.nytimes.com/2011/08/29/nyregion/school-gym-shelters-evacuees-from-irene.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2011/08/29/nyregion/school-gym-shelters-evacuees-from-irene.html</guid>
+			<atom:link rel="standout" href="http://www.nytimes.com/2011/08/29/nyregion/school-gym-shelters-evacuees-from-irene.html?partner=rss&amp;emc=rss"/>
+			<description>The decision to evacuate to a shelter was a difficult one to make, but once the families arrived at the Brooklyn school, things went smoothly enough.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=b466c9a895437dae068d2ac36aa42933&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=b466c9a895437dae068d2ac36aa42933&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By ANNA M. PHILLIPS</dc:creator>
+			<pubDate>Mon, 29 Aug 2011 09:37:07 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Irene (2011)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sunset Park (NYC)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+		</item>
+		<item>
+			<title>A Soaked Vermont Awaits Even More Flooding</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=a986c478caa1600ae1dd15235afc82f0</link>
+			<pheedo:origLink>http://www.nytimes.com/2011/08/29/us/29vermont.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2011/08/29/us/29vermont.html</guid>
+			<atom:link rel="standout" href="http://www.nytimes.com/2011/08/29/us/29vermont.html?partner=rss&amp;emc=rss"/>
+			<description>Much of Vermont was deluged with rain as Irene blew through on Sunday afternoon. At least one person was dead after being swept into a rushing river.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=a986c478caa1600ae1dd15235afc82f0&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=a986c478caa1600ae1dd15235afc82f0&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By ABBY GOODNOUGH</dc:creator>
+			<pubDate>Mon, 29 Aug 2011 05:05:57 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Irene (2011)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vermont</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shumlin, Peter</category>
+		</item>
+		<item>
+			<title>Irene Weakened More Than Most Hurricanes</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=e58fc23e627252c32b7ad17279dc9c6a</link>
+			<pheedo:origLink>http://www.nytimes.com/2011/08/29/us/29forecast.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2011/08/29/us/29forecast.html</guid>
+			<atom:link rel="standout" href="http://www.nytimes.com/2011/08/29/us/29forecast.html?partner=rss&amp;emc=rss"/>
+			<media:content url="http://graphics8.nytimes.com/images/2011/08/29/us/FORECAST/FORECAST-thumbStandard.jpg" medium="image" height="75" width="75"/>
+			<media:description>A map at the National Hurricane Center in Miami showed Tropical Storms Irene, left, and newly formed Jose on Sunday.</media:description>
+			<media:credit>J Pat Carter/Associated Press</media:credit>
+			<description>Forecasters admitted misjudging the storm&#x2019;s structure and how it might build.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=e58fc23e627252c32b7ad17279dc9c6a&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=e58fc23e627252c32b7ad17279dc9c6a&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By HENRY FOUNTAIN</dc:creator>
+			<pubDate>Mon, 29 Aug 2011 05:31:04 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Irene (2011)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Forecasts</category>
+		</item>
+		<item>
+			<title>This Time, Bloomberg Gets Mostly Praise for Storm Response</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=150e05c8f31a1bd86aedffb41690d2b1</link>
+			<pheedo:origLink>http://www.nytimes.com/2011/08/29/nyregion/this-time-bloomberg-gets-mostly-praise-for-storm-response.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2011/08/29/nyregion/this-time-bloomberg-gets-mostly-praise-for-storm-response.html</guid>
+			<atom:link rel="standout" href="http://www.nytimes.com/2011/08/29/nyregion/this-time-bloomberg-gets-mostly-praise-for-storm-response.html?partner=rss&amp;emc=rss"/>
+			<description>With an aggressive approach to Tropical Storm Irene, Michael R. Bloomberg seemed to have done much to repair his reputation for C.E.O.-style leadership.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=150e05c8f31a1bd86aedffb41690d2b1&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=150e05c8f31a1bd86aedffb41690d2b1&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By MICHAEL BARBARO</dc:creator>
+			<pubDate>Mon, 29 Aug 2011 05:26:40 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Irene (2011)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bloomberg, Michael R</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+		</item>
+		<item>
+			<title>City Room: After Hurricane Irene: What You Need to Know in New York</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=8cdeca1ae23727a6c8db170e31299ffc</link>
+			<pheedo:origLink>http://cityroom.blogs.nytimes.com/2011/08/28/after-hurricane-irene-what-you-need-to-know-in-new-york/?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://cityroom.blogs.nytimes.com/2011/08/28/after-hurricane-irene-what-you-need-to-know-in-new-york/</guid>
+			<atom:link rel="standout" href="http://cityroom.blogs.nytimes.com/2011/08/28/after-hurricane-irene-what-you-need-to-know-in-new-york/?partner=rss&amp;emc=rss"/>
+			<description>Information for New Yorkers after the tropical storm has passed.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=8cdeca1ae23727a6c8db170e31299ffc&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=8cdeca1ae23727a6c8db170e31299ffc&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By THE NEW YORK TIMES</dc:creator>
+			<pubDate>Mon, 29 Aug 2011 03:47:35 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/">Hurricane Irene</category>
+			<category domain="http://www.nytimes.com/namespaces/">New York City</category>
+			<category domain="http://www.nytimes.com/namespaces/">Hurricane Irene (2011)</category>
+		</item>
+		<item>
+			<title>Submit Your Photos of Hurricane Irene</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=1bd2205c2a9e811a3bb297c995909bc9</link>
+			<pheedo:origLink>http://www.nytimes.com/2011/08/26/us/submit-hurricane-irene-photos.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2011/08/26/us/submit-hurricane-irene-photos.html</guid>
+			<atom:link rel="standout" href="http://www.nytimes.com/2011/08/26/us/submit-hurricane-irene-photos.html?partner=rss&amp;emc=rss"/>
+			<description>Times readers submitted their photos of early evacuations, storm scenes and damage. Send yours to pix@nyt.com.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=1bd2205c2a9e811a3bb297c995909bc9&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=1bd2205c2a9e811a3bb297c995909bc9&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator/>
+			<pubDate>Mon, 29 Aug 2011 08:59:19 GMT</pubDate>
+		</item>
+		<item>
+			<title>Top Banks Confront Leaner Future by Cutting Jobs</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=c3328b3084d1739ea6e5fd6da2e3ff76</link>
+			<pheedo:origLink>http://www.nytimes.com/2011/08/29/business/top-banks-confront-leaner-future-by-cutting-jobs.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2011/08/29/business/top-banks-confront-leaner-future-by-cutting-jobs.html</guid>
+			<atom:link rel="standout" href="http://www.nytimes.com/2011/08/29/business/top-banks-confront-leaner-future-by-cutting-jobs.html?partner=rss&amp;emc=rss"/>
+			<description>As government lifelines fade and a second recession seems increasingly possible, banks are finding their growth constrained, even as they add new costs for consumers.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=c3328b3084d1739ea6e5fd6da2e3ff76&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=c3328b3084d1739ea6e5fd6da2e3ff76&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By ERIC DASH</dc:creator>
+			<pubDate>Mon, 29 Aug 2011 08:44:09 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Economic Conditions and Trends</category>
+		</item>
+		<item>
+			<title>As States&#x2019; Rights Stalwart, Rick Perry Draws Doubts</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=5e0bb997a831e65d6f51d4c28991d61f</link>
+			<pheedo:origLink>http://www.nytimes.com/2011/08/29/us/politics/29perry.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2011/08/29/us/politics/29perry.html</guid>
+			<atom:link rel="standout" href="http://www.nytimes.com/2011/08/29/us/politics/29perry.html?partner=rss&amp;emc=rss"/>
+			<media:content url="http://graphics8.nytimes.com/images/2011/08/29/us/PERRY-2/PERRY-2-thumbStandard.jpg" medium="image" height="75" width="75"/>
+			<media:description>Gov. Rick Perry of Texas, in South Carolina.</media:description>
+			<media:credit>Travis Dove for The New York Times</media:credit>
+			<description>Gov. Rick Perry of Texas has come to publicly embrace states&#x2019; rights as a defining issue only in the past few years.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=5e0bb997a831e65d6f51d4c28991d61f&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=5e0bb997a831e65d6f51d4c28991d61f&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By MANNY FERNANDEZ and EMILY RAMSHAW</dc:creator>
+			<pubDate>Mon, 29 Aug 2011 04:24:38 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Presidential Election of 2012</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Perry, Rick</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+		</item>
+		<item>
+			<title>An Enigma in Power, Qaddafi is Elusive at Large</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=f77f740743e45c0661119faf19791352</link>
+			<pheedo:origLink>http://www.nytimes.com/2011/08/29/world/africa/29qaddafi.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2011/08/29/world/africa/29qaddafi.html</guid>
+			<atom:link rel="standout" href="http://www.nytimes.com/2011/08/29/world/africa/29qaddafi.html?partner=rss&amp;emc=rss"/>
+			<media:content url="http://graphics8.nytimes.com/images/2011/08/29/world/QADDAFI-4/QADDAFI-4-thumbStandard.jpg" medium="image" height="75" width="75"/>
+			<media:description>Col. Muammar el-Qaddafi with his wife, Safia Farkash, in a family photograph. The photos were found in his compound in Tripoli.</media:description>
+			<media:credit>Tyler Hicks/The New York Times</media:credit>
+			<description>As his capital fell last week, Col. Muammar el-Qaddafi and his family evaporated from Tripoli, once their bastion of power that is now a city being reconstructed.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=f77f740743e45c0661119faf19791352&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=f77f740743e45c0661119faf19791352&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By ANTHONY SHADID</dc:creator>
+			<pubDate>Mon, 29 Aug 2011 09:06:07 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and North Africa Unrest (2010- )</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Qaddafi, Muammar el-</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Qaddafi, Mohammed el-</category>
+		</item>
+		<item>
+			<title>In Nevada, Apathy and Gloom Before a Special Election</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=e4c03f07274de91446e9b19c56ffbce2</link>
+			<pheedo:origLink>http://www.nytimes.com/2011/08/29/us/29nevada.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2011/08/29/us/29nevada.html</guid>
+			<atom:link rel="standout" href="http://www.nytimes.com/2011/08/29/us/29nevada.html?partner=rss&amp;emc=rss"/>
+			<description>Many voters have tuned out a special election for a Congressional seat in Nevada, where unemployment is at 13 percent and foreclosure rates are among the highest in the country.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=e4c03f07274de91446e9b19c56ffbce2&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=e4c03f07274de91446e9b19c56ffbce2&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By JENNIFER MEDINA</dc:creator>
+			<pubDate>Mon, 29 Aug 2011 04:37:29 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nevada</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Mark</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marshall, Kate</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+		</item>
+		<item>
+			<title>Finance Minister Is Chosen as Japan&#x2019;s Next Leader</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=ce7c2035a5caa6923eeeda8d98ad93e8</link>
+			<pheedo:origLink>http://www.nytimes.com/2011/08/30/world/asia/30japan.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2011/08/30/world/asia/30japan.html</guid>
+			<atom:link rel="standout" href="http://www.nytimes.com/2011/08/30/world/asia/30japan.html?partner=rss&amp;emc=rss"/>
+			<description>Japan&#x2019;s governing party on Monday elected Yoshihiko Noda to be its next leader, and thus the nation&#x2019;s next prime minister.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=ce7c2035a5caa6923eeeda8d98ad93e8&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=ce7c2035a5caa6923eeeda8d98ad93e8&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By MARTIN FACKLER</dc:creator>
+			<pubDate>Mon, 29 Aug 2011 06:57:17 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Noda, Yoshihiko</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Democratic Party (Japan)</category>
+		</item>
+		<item>
+			<title>Stock Markets Rise After Fed Chief's Speech</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=e9b72c97dbd563675ba1a2e6f9166f7c</link>
+			<pheedo:origLink>http://www.nytimes.com/aponline/2011/08/28/business/AP-World-Markets.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/aponline/2011/08/28/business/AP-World-Markets.html</guid>
+			<description>World stock markets rose on Monday, heartened by Federal Reserve chief Ben Bernanke's call on the U.S. government to help the economy and his refusal to rule out more monetary stimulus by the central bank.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=e9b72c97dbd563675ba1a2e6f9166f7c&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=e9b72c97dbd563675ba1a2e6f9166f7c&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By THE ASSOCIATED PRESS</dc:creator>
+			<pubDate>Mon, 29 Aug 2011 10:54:07 GMT</pubDate>
+		</item>
+		<item>
+			<title>Police Lineups Start to Face Fact: Eyes Can Lie</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=d6fd03493fdd3517257ad514960e24f1</link>
+			<pheedo:origLink>http://www.nytimes.com/2011/08/29/us/29witness.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2011/08/29/us/29witness.html</guid>
+			<atom:link rel="standout" href="http://www.nytimes.com/2011/08/29/us/29witness.html?partner=rss&amp;emc=rss"/>
+			<media:content url="http://graphics8.nytimes.com/images/2011/08/29/us/JP-WITNESS/JP-WITNESS-thumbStandard.jpg" medium="image" height="75" width="75"/>
+			<media:description>Senior Cpl. Chris Daniels, left, and Lt. David Pughes of the Dallas police homicide unit simulating a sequential photo lineup.</media:description>
+			<media:credit>Rex C. Curry for The New York Times</media:credit>
+			<description>A decision by New Jersey&#x2019;s Supreme Court last week could help change the way police officers get witnesses to identify suspects.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=d6fd03493fdd3517257ad514960e24f1&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=d6fd03493fdd3517257ad514960e24f1&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By ERICA GOODE and JOHN SCHWARTZ</dc:creator>
+			<pubDate>Mon, 29 Aug 2011 06:32:27 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Witnesses</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Jury System</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Prisons and Prisoners</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">False Arrests, Convictions and Imprisonments</category>
+		</item>
+		<item>
+			<title>At VMAs, Young Stars With Fresh Mouths</title>
+			<link>http://feeds.nytimes.com/click.phdo?i=097d12fb373b2b60c59a486945825944</link>
+			<pheedo:origLink>http://www.nytimes.com/2011/08/29/arts/music/at-vmas-young-stars-with-fresh-mouths.html?partner=rss&amp;amp;emc=rss</pheedo:origLink>
+			<guid isPermaLink="false">http://www.nytimes.com/2011/08/29/arts/music/at-vmas-young-stars-with-fresh-mouths.html</guid>
+			<atom:link rel="standout" href="http://www.nytimes.com/2011/08/29/arts/music/at-vmas-young-stars-with-fresh-mouths.html?partner=rss&amp;emc=rss"/>
+			<media:content url="http://graphics8.nytimes.com/images/2011/08/29/us/29mtv1/29mtv1-thumbStandard.jpg" medium="image" height="75" width="75"/>
+			<media:description>Bruno Mars, center, performed during a tribute for late singer Amy Winehouse at the 2011 MTV Video Music Awards in Los Angeles on Sunday.</media:description>
+			<media:credit>Mario Anzuoni/Reuters</media:credit>
+			<description>The 2011 edition of the Video Music Awards may have been the most bleeped award show in history.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=097d12fb373b2b60c59a486945825944&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=097d12fb373b2b60c59a486945825944&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description>
+			<dc:creator>By JON CARAMANICA</dc:creator>
+			<pubDate>Mon, 29 Aug 2011 09:13:38 GMT</pubDate>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">MTV Video Music Awards</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">MTV Networks</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Winehouse, Amy</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">West, Kanye</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jay-Z</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lady Gaga</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mars, Bruno</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Knowles, Beyonce</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spears, Britney</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bieber, Justin</category>
+		</item>
+	</channel>
+</rss>
