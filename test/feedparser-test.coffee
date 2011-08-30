@@ -64,4 +64,32 @@ vows
         'have links': (items) ->
           assert.match(item.link, /^http:.+theconversation/) for item in items
 
+    'Flickr':
+      topic: ->
+        xml = fs.readFileSync("#{__dirname}/flickr.xml").toString()
+        feedparser.parse xml, @callback
+
+      'can be parsed': (error, feed) ->
+        assert.isNull error
+        assert.isObject feed
+
+      'provides a feed title': (error, feed) ->
+        assert.equal feed.title, "Flickr Most Interesting Photos"
+
+      'provides a feed link': (error, feed) ->
+        assert.equal feed.link, "http://flickr.com/explore/interesting/"
+
+      'items':
+        topic: (feed) -> feed.items
+
+        'are all included': (items) ->
+          assert.isArray items
+          assert.length items, 20
+
+        'have titles': (items) ->
+          assert.match(item.title, /\w+/) for item in items
+
+        'have links': (items) ->
+          assert.match(item.link, /^http:.+flickr/) for item in items
+
   .export module

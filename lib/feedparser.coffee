@@ -26,7 +26,7 @@ class Parser
 
   parseItem: (item) ->
     title: item.title
-    link: item["#{@ns.atom}:link"]?['@']?.href or item['pheedo:origLink'] or item['link']?['@']?.href
+    link: item["#{@ns.atom}:link"]?['@']?.href or item['pheedo:origLink'] or item['link']?['@']?.href or item['link']
 
 parse = (xml, callback) ->
   parser = new Parser(xml)
