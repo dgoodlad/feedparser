@@ -1,35 +1,38 @@
 xmlparser = require 'libxml-to-js'
 
-class Parser
-  @NS =
-    'http://www.w3.org/2005/Atom': 'atom'
+NS =
+  'http://www.w3.org/2005/Atom': 'atom'
 
-  constructor: (@xml) ->
+feedNamespaces = (feed) ->
+  namespaces = {}
+  namespaces[NS[url] or url] = ns for ns, url of feed['@'].xmlns
+  namespaces
 
-  parse: (callback) ->
-    xmlparser @xml, (error, feed) =>
-      return callback error if error?
+feedRoot = (feed, namespaces) ->
+  feed.channel or feed
 
-      @ns = {}
-      @ns[Parser.NS[url] or ns] = ns for ns, url of feed['@'].xmlns
+feedProperties = (root, namespaces) ->
+  title: root.title
+  link: if root.link.length then root.link else root.link['@'].href
 
-      try
-        root = feed.channel or feed
-        items = root.item or root.entry
+feedItems = (root, namespaces) ->
+  items = root.item or root.entry
+  parseItem item, namespaces for item in items
 
-        callback null
-          title: root.title
-          link: if root.link.length then root.link else root.link['@'].href
-          items: @parseItem(item) for item in items
-      catch error
-        callback error
-
-  parseItem: (item) ->
-    title: item.title
-    link: item["#{@ns.atom}:link"]?['@']?.href or item['pheedo:origLink'] or item['link']?['@']?.href or item['link']
+parseItem = (item, namespaces) ->
+  title: item.title
+  link: item["#{namespaces.atom}:link"]?['@']?.href or item['pheedo:origLink'] or item['link']?['@']?.href or item['link']
 
 parse = (xml, callback) ->
-  parser = new Parser(xml)
-  parser.parse callback
+  xmlparser xml, (error, feed) ->
+    return callback(error) if error?
+
+    namespaces = feedNamespaces feed
+    root = feedRoot(feed, namespaces)
+
+    parsed = feedProperties(root, namespaces)
+    parsed.items = feedItems(root, namespaces)
+
+    callback null, parsed
 
 exports.parse = parse
